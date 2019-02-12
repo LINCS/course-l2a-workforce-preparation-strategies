@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="156" contextid="19709">
+  <shortname>L2A Workforce Preparation Strategies</shortname>
+  <fullname>L2A: Workforce Preparation Strategies</fullname>
+  <idnumber>DS07VS</idnumber>
+  <summary>&lt;p&gt;This course focuses on some practical strategies adult basic educators can use to help their students with learning disabilities (LD) develop effective skills for finding and retaining employment.&lt;/p&gt;
+&lt;p&gt;Audiences:&lt;br /&gt;• Instructors and practitioners in Adult Basic Education (ABE) and low Adult Secondary Education (ASE) programs&lt;br /&gt;• Instructors of adults with learning disabilities (LD)&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <format>topcoll</format>
+  <showgrades>1</showgrades>
+  <newsitems>5</newsitems>
+  <startdate>1472702400</startdate>
+  <marker>4</marker>
+  <maxbytes>52428800</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang>en_us</lang>
+  <theme>lincs</theme>
+  <timecreated>1472701498</timecreated>
+  <timemodified>1472745881</timemodified>
+  <requested>0</requested>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <numsections>3</numsections>
+  <hiddensections>0</hiddensections>
+  <coursedisplay>0</coursedisplay>
+  <displayinstructions>2</displayinstructions>
+  <layoutelement>5</layoutelement>
+  <layoutstructure>1</layoutstructure>
+  <layoutcolumns>1</layoutcolumns>
+  <layoutcolumnorientation>2</layoutcolumnorientation>
+  <togglealignment>1</togglealignment>
+  <toggleiconposition>1</toggleiconposition>
+  <toggleiconset>arrow</toggleiconset>
+  <toggleallhover>2</toggleallhover>
+  <toggleforegroundcolour>000000</toggleforegroundcolour>
+  <togglebackgroundcolour>e2e2f2</togglebackgroundcolour>
+  <togglebackgroundhovercolour>eeeeff</togglebackgroundhovercolour>
+  <category id="2">
+    <name>Disabilities and Equitable Outcomes</name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+</course>

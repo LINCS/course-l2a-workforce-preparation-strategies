@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="82" moduleid="5861" modulename="book" contextid="19722">
+  <book id="82">
+    <name>Session 1: Essential Skills</name>
+    <intro>&lt;p&gt;part 1 of 2 for guiding question #1&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>1</customtitles>
+    <timecreated>1456962788</timecreated>
+    <timemodified>1456966159</timemodified>
+    <chapters>
+      <chapter id="645">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Skills employers identify as essential</title>
+        <content>&lt;h1 class="Subhead"&gt;&lt;span style="color: #000000;"&gt;Skills employers identify&lt;span style="color: #ffffff;"&gt;-&lt;/span&gt;as essential&lt;/span&gt;&lt;/h1&gt;
+&lt;h1&gt;&lt;span style="line-height: 1.231; font-size: 13px; font-weight: normal;"&gt;The “Are they Really Ready to Work?” study on employer expectations identified two categories of expected skills:&lt;/span&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;basic skills; and &lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;applied skills.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We will explore these two categories in detail on the following screens.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h1 class="Subhead"&gt;&lt;/h1&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1468528074</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="646">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Basic skills</title>
+        <content>&lt;h1 class="Subhead"&gt;Basic Skills&lt;/h1&gt;
+&lt;h1 class="Subhead"&gt;&lt;i style="font-size: 13px; font-weight: normal; line-height: 1.231;"&gt;Basic skills&lt;/i&gt;&lt;span style="font-size: 13px; font-weight: normal; line-height: 1.231;"&gt; refer to the kinds of academic skills we learn in school.&lt;/span&gt;&lt;/h1&gt;
+&lt;p&gt;Topics such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;English language (spoken);&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;reading comprehension (English);&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;written English;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b style="line-height: 1.231;"&gt;mathematics;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;science;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;government/economics;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;humanities/arts;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;foreign languages; and&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;history/geography.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Note that skills listed in bold were reported by employers as most critical. Let’s take a closer look at these particular basic skills.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1468528103</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="647">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Basic reading skills</title>
+        <content>&lt;h1 class="Subhead"&gt;Basic reading skills&lt;/h1&gt;
+&lt;p&gt;&lt;i&gt;Basic Reading&lt;/i&gt; – This is the ability to locate and comprehend critical information from work-related written material, such as technical manuals, and to obtain and understand selected information from the Internet. Many people who are considered to be “functionally illiterate” can actually do this level of reading because they are able to draw information from graphics and illustrations.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/115909543.jpg" width="400" height="600" alt="Photo of a male worker with a toolbelt reading instructions." /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1457045938</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="648">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Basic math skills</title>
+        <content>&lt;h1 class="Subhead"&gt;Basic math skills&lt;/h1&gt;
+&lt;p&gt;&lt;i&gt;Basic Math&lt;/i&gt; – This is the ability to perform pre-algebra math and to apply basic math concepts to everyday problems. Often we refer to this level as arithmetic or “functional math.”  Most jobs require this level.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/134187843.jpg" width="600" height="399" alt="Photo of a woman creating a graph on a whiteboard." /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1457046385</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="649">
+        <pagenum>5</pagenum>
+        <subchapter>0</subchapter>
+        <title>Applied skills</title>
+        <content>&lt;h1 class="Subhead"&gt;Applied skills&lt;/h1&gt;
+&lt;p&gt;&lt;i&gt;Applied skills&lt;/i&gt; refer to those skills that enable workers to use the basic knowledge acquired in school to perform in the workplace. These include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;teamwork/collaboration;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;critical thinking/problem-solving;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;communication;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;professionalism/work ethic;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;information technology application;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;leadership;&lt;/li&gt;
+&lt;li&gt;creativity/innovation;&lt;/li&gt;
+&lt;li&gt;lifelong learning/self-direction; and&lt;/li&gt;
+&lt;li&gt;ethics/social responsibility.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The skills listed in bold were reported in the “Are they Really Ready to Work?” report as most critical. Let’s take a closer look…&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/MH900431851.JPG" width="239" height="235" alt="Photo of a postal worker’s gloved hands handling a box." /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1457046398</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="650">
+        <pagenum>6</pagenum>
+        <subchapter>0</subchapter>
+        <title>Teamwork</title>
+        <content>&lt;h1 class="Subhead"&gt;Applied skills – teamwork&lt;/h1&gt;
+&lt;p&gt;Very few jobs in our society do not depend on some degree of &lt;i&gt;teamwork&lt;/i&gt;, which is defined as the ability to collaborate with one or more people to accomplish identified goals.&lt;/p&gt;
+&lt;h2&gt; &lt;/h2&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/138030903.jpg" width="620" height="412" alt="Photo of four hands holding puzzle pieces." /&gt;&lt;/p&gt;
+&lt;h2&gt; &lt;/h2&gt;
+&lt;p class="p1"&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1457472586</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="651">
+        <pagenum>7</pagenum>
+        <subchapter>0</subchapter>
+        <title>Critical thinking/problem-solving</title>
+        <content>&lt;h1 class="Subhead"&gt;Applied skills – critical thinking/problem-solving&lt;/h1&gt;
+&lt;p&gt;All jobs require &lt;i&gt;critical thinking and problem-solving skills&lt;/i&gt;, which refer to the ability to analyze a multidimensional problem or scenario, to generate possible solutions, to test the possible solutions, and to communicate one’s findings to others.&lt;/p&gt;
+&lt;h1&gt; &lt;/h1&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/87460442.jpg" width="540" height="655" alt="Photo of a three people at a computer." style="float: left;" /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1457472597</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="652">
+        <pagenum>8</pagenum>
+        <subchapter>0</subchapter>
+        <title>Communication</title>
+        <content>&lt;h1 class="Subhead"&gt;Applied skills - communication&lt;/h1&gt;
+&lt;p&gt;Most jobs demand that a worker be able to communicate effectively. &lt;i&gt;Communication skills&lt;/i&gt; refer to the ability to receive and give information in an accurate manner. This can be conveyed in many ways: orally, in writing, or through gestures, codes or assistive communication devices.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1457472606</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="653">
+        <pagenum>9</pagenum>
+        <subchapter>0</subchapter>
+        <title>Professionalism/work ethic</title>
+        <content>&lt;h1 class="Subhead"&gt;Applied skills - professionalism/work ethic&lt;/h1&gt;
+&lt;p&gt;&lt;i&gt;Professionalism/Work Ethic:&lt;/i&gt;&lt;b&gt; &lt;/b&gt;These skills refer to character and behavior qualities that enable individuals to succeed in work, education and social environments. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1457472617</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="654">
+        <pagenum>10</pagenum>
+        <subchapter>0</subchapter>
+        <title>Information technology application</title>
+        <content>&lt;h1 class="Subhead"&gt;Applied skills – information technology application&lt;/h1&gt;
+&lt;p&gt;&lt;i&gt;Information Technology Application&lt;/i&gt;: Most jobs require workers to interact in some way with technology. Even lower skill level jobs increasingly require employees to use computers and/or handheld devices (for example, in some hotels, housekeepers use computers to order supplies and communicate room status).&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/157964362.jpg" width="600" height="400" alt="Photo of two construction workers using a computer tablet on the job." /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1457472628</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="655">
+        <pagenum>11</pagenum>
+        <subchapter>0</subchapter>
+        <title>Review of essential skills identified by employers</title>
+        <content>&lt;h1 class="Subhead"&gt;Review of essential skills identified by employers&lt;/h1&gt;
+&lt;p&gt;The “Are they Really Ready to Work?” study on employer expectations identified two categories of expected skills. Review the list for both categories before moving on.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table align="center" style="border: 1px solid #000000; background-color: #ffffff;" border="1" rules="all" cellspacing="0" cellpadding="5"&gt;
+&lt;thead&gt;
+&lt;tr style="background-color: #0f24bc;"&gt;
+&lt;td align="center" valign="middle" style="text-align: center;" scope="col"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt; Basic Skills&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td align="center" valign="middle" style="text-align: center;" scope="col"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span medium="" strong=""&gt;&lt;span style="color: #ffffff;"&gt; Applied Skills  &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="center" style="border: 1px solid #000000; text-align: left;"&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;English language (spoken)&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;strong&gt;&lt;span style="font-size: small;"&gt;Reading comprehension (English)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;Written English&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;strong&gt;&lt;span style="font-size: small;"&gt;Mathematics&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;Science&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;Government/economics&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;Humanities/arts&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;Foreign languages  &lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;History/geography&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td align="center" style="border: 1px solid #000000; text-align: left;"&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;strong style="line-height: 1.231;"&gt;&lt;span style="font-size: small;"&gt;Teamwork/collaboration&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span style="font-size: small;"&gt; Critical thinking/problem-solving&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;strong&gt;&lt;span style="font-size: small;"&gt;Communication&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;strong&gt;&lt;span style="font-size: small;"&gt;Professionalism/work ethic&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;strong&gt;&lt;span style="font-size: small;"&gt;Information technology application&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;Leadership&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;Creativity/innovation&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;Lifelong learning/self-direction&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;Ethics/social responsibility&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Click the &lt;/span&gt;&lt;b&gt;forward arrow&lt;/b&gt;&lt;span&gt; to explore some classroom instructional strategies we can use to support learners in developing essential basic &lt;/span&gt;&lt;i&gt;and&lt;/i&gt;&lt;span&gt; applied skills to meet employer expectations.&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1457462213</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="656">
+        <pagenum>12</pagenum>
+        <subchapter>0</subchapter>
+        <title>Activity: Identify instructional strategies for addressing one applied skill</title>
+        <content>&lt;h1 class="Subhead"&gt;Activity: Identify instructional strategies for addressing one applied skill&lt;/h1&gt;
+&lt;p&gt;Use a blank piece of paper or open Microsoft Word to complete this activity.&lt;/p&gt;
+&lt;p&gt;First, choose &lt;b&gt;one&lt;/b&gt; applied skill from this list that you would like to emphasize with your adult learners. Write this skill at the top of your paper.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;table align="center" style="border: 1px solid #000000; background-color: #ffffff;" border="1" rules="all" cellspacing="0" cellpadding="5"&gt;
+&lt;thead&gt;
+&lt;tr style="background-color: #0f24bc;"&gt;
+&lt;td align="center" valign="middle" style="text-align: center;" scope="col"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span medium="" strong=""&gt;&lt;span style="color: #ffffff;"&gt; Applied Skills  &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="center" style="border: 1px solid #000000; text-align: left;"&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;strong style="line-height: 1.231;"&gt;&lt;span style="font-size: small;"&gt;Teamwork/collaboration&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span style="font-size: small;"&gt; Critical thinking/problem-solving&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;strong&gt;&lt;span style="font-size: small;"&gt;Communication&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;strong&gt;&lt;span style="font-size: small;"&gt;Professionalism/work ethic&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;strong&gt;&lt;span style="font-size: small;"&gt;Information technology application&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;Leadership&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;Creativity/innovation&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;Lifelong learning/self-direction&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;Ethics/social responsibility&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Next identify &lt;b&gt;three&lt;/b&gt; instructional strategies or activities that you can use with your adult learners to develop your chosen applied skill. Write your three ideas below the skill.&lt;/p&gt;
+&lt;p&gt;Once you have identified your instructional strategies, click the &lt;b&gt;forward arrow&lt;/b&gt; to explore an example.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1457461665</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="657">
+        <pagenum>13</pagenum>
+        <subchapter>0</subchapter>
+        <title>Applied skills example #1 – teamwork</title>
+        <content>&lt;h1 class="Subhead"&gt;Applied skills example #1 – teamwork&lt;/h1&gt;
+&lt;p&gt;Let’s look at examples of two possible strategies focused on developing teamwork skills.&lt;/p&gt;
+&lt;p&gt;Take a moment or so to review the first strategy below. Are there other essential applied skills being developed? How about basic skills? Which ones?&lt;/p&gt;
+&lt;p&gt;Once you have identified some strategies, click the &lt;b&gt;forward arrow&lt;/b&gt; to compare your answers to ours.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Strategy #1&lt;/b&gt;: Mary divides the class into several small groups and introduces them to a team assignment in which each member is to interview a businessperson to find out how that individual describes what “teamwork” means to him or her. Students are instructed to determine:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“What does the interviewee see as critical components of teamwork?”&lt;/li&gt;
+&lt;li&gt;“What are examples of teamwork in that person’s workplace?”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Each group (team) then convenes to share what they learned and to create a unified presentation to the class.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;table align="center" style="border: 1px solid #000000; background-color: #ffffff;" border="1" rules="all" cellspacing="0" cellpadding="5"&gt;
+&lt;thead&gt;
+&lt;tr style="background-color: #0f24bc;"&gt;
+&lt;td align="center" valign="middle" style="text-align: center;" scope="col"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt; Basic Skills&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td align="center" valign="middle" style="text-align: center;" scope="col"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span medium="" strong=""&gt;&lt;span style="color: #ffffff;"&gt; Applied Skills  &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="center" style="border: 1px solid #000000; text-align: left;"&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;•&lt;/span&gt; English language (spoken)&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;span style="font-size: small;"&gt;Reading comprehension (English)&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;• Written English&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;span style="font-size: small;"&gt;Mathematics&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;• Science&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;• Government/economics&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;• Humanities/arts&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;• Foreign languages  &lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;• History/geography&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td align="center" style="border: 1px solid #000000; text-align: left;"&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;span style="font-size: small;"&gt;Teamwork/collaboration&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; Critical thinking/problem-solving&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;span style="font-size: small;"&gt;Communication&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;span style="font-size: small;"&gt;Professionalism/work ethic&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;span style="font-size: small;"&gt;Information technology application&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;• Leadership&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;• Creativity/innovation&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;• Lifelong learning/self-direction&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;• Ethics/social responsibility&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1457462930</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="658">
+        <pagenum>15</pagenum>
+        <subchapter>0</subchapter>
+        <title>Applied skills example #2 – teamwork</title>
+        <content>&lt;h1 class="Subhead"&gt;Applied skills example #2 – teamwork&lt;/h1&gt;
+&lt;p&gt;Again, please review this strategy. What other essential applied skills are being developed?  How about basic skills?&lt;/p&gt;
+&lt;p&gt;Once you have identified some strategies, click the &lt;b&gt;forward arrow&lt;/b&gt; to compare your answers to ours.&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;b&gt;Strategy #2&lt;/b&gt;:  Frank divides his class into small groups and assigns them each a reading selection on the topic of teamwork. After reading the material, each team is to work together to write a paper or prepare an oral presentation on different aspects of teamwork. (Depending on the article, the team might address such issues as goal-setting, assigning tasks according to individual strengths and interests, setting deadlines, following through on tasks, showing commitment to the team, communication, asking for assistance/clarification and creative problem-solving.)&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;Teams are to demonstrate their use of technology by producing a text or graphic document and/or by preparing a PowerPoint presentation. The team decides in advance how to tackle the assignment. Each team presents its findings to the class and also discusses the dynamics they experienced as a team. Frank then leads the class in a discussion of how all of this relates to an employee’s success in the workplace.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;table align="center" style="border: 1px solid #000000; background-color: #ffffff;" border="1" rules="all" cellspacing="0" cellpadding="5"&gt;
+&lt;thead&gt;
+&lt;tr style="background-color: #0f24bc;"&gt;
+&lt;td align="center" valign="middle" style="text-align: center;" scope="col"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt; Basic Skills&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td align="center" valign="middle" style="text-align: center;" scope="col"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span medium="" strong=""&gt;&lt;span style="color: #ffffff;"&gt; Applied Skills  &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="center" style="border: 1px solid #000000; text-align: left;"&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;• English language (spoken)&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;span style="font-size: small;"&gt;Reading comprehension (English)&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;• Written English&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;span style="font-size: small;"&gt;Mathematics&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;Science&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;Government/economics&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;Humanities/arts&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;Foreign languages  &lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;History/geography&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td align="center" style="border: 1px solid #000000; text-align: left;"&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;span style="font-size: small;"&gt;Teamwork/collaboration&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; Critical thinking/problem-solving&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;span style="font-size: small;"&gt;Communication&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;span style="font-size: small;"&gt;Professionalism/work ethic&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;span style="font-size: small;"&gt;Information technology application&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;Leadership&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;Creativity/innovation&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;Lifelong learning/self-direction&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;Ethics/social responsibility&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt; &lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1457462708</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="659">
+        <pagenum>17</pagenum>
+        <subchapter>0</subchapter>
+        <title>Instructional strategies benefit most adult learners</title>
+        <content>&lt;h1 class="Subhead"&gt;Instructional strategies benefit most adult learners&lt;/h1&gt;
+&lt;p&gt;We covered just two examples of strategies focused on developing skills determined to be essential by employers – both applied and basic. These ideas, as well as your own, are likely to be of great benefit to not only adults with LD, but almost all adult learners you serve.&lt;/p&gt;
+&lt;p&gt;Let’s move on to examine the career development process, and the instructor’s role in supporting skill development relating to this process.&lt;/p&gt;
+&lt;h1&gt; &lt;/h1&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt;Continue on to Guiding Question #1, Session 2: Career Development&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1457463081</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="660">
+        <pagenum>16</pagenum>
+        <subchapter>0</subchapter>
+        <title>Example #2 - answers</title>
+        <content>&lt;h1 class="Subhead"&gt;Example #2 – answers&lt;/h1&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt;While many answers may apply, in addition to teamwork, we identified the following skills being developed in scenario #2:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Communication – with other team members, and in presenting to the class.&lt;/li&gt;
+&lt;li&gt;Critical thinking/problem-solving – in determining how to approach the assignment, determining how to present information&lt;/li&gt;
+&lt;li&gt;Creativity/innovation – in designing a presentation to demonstrate their understanding&lt;/li&gt;
+&lt;li&gt;And information technology application – required in order to create an element of the presentation&lt;/li&gt;
+&lt;li&gt;In addition, this assignment directly addressed reading skills, and for some teams, writing skills as well.&lt;/li&gt;
+&lt;li&gt;And, again, spoken English language skills – if this had been a class of non-native speakers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;table align="center" style="border: 1px solid #000000; background-color: #ffffff;" border="1" rules="all" cellspacing="0" cellpadding="5"&gt;
+&lt;thead&gt;
+&lt;tr style="background-color: #0f24bc;"&gt;
+&lt;td align="center" valign="middle" style="text-align: center;" scope="col"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt; Basic Skills&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td align="center" valign="middle" style="text-align: center;" scope="col"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span medium="" strong=""&gt;&lt;span style="color: #ffffff;"&gt; Applied Skills  &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="center" style="border: 1px solid #000000; text-align: left;"&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small; color: #ff6600;"&gt;•&lt;strong&gt; &lt;/strong&gt;&lt;em&gt;English language (spoken)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="color: #ff6600;"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;em&gt;&lt;strong&gt;&lt;span style="font-size: small;"&gt;Reading comprehension (English)&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small; color: #ff6600;"&gt;•&lt;strong&gt; &lt;/strong&gt;&lt;em&gt;Written English&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="color: #999999;"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;strong&gt;&lt;span style="font-size: small;"&gt;Mathematics&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small; color: #999999;"&gt;•&lt;strong&gt; &lt;/strong&gt;Science&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small; color: #999999;"&gt;•&lt;strong&gt; &lt;/strong&gt;Government/economics&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small; color: #999999;"&gt;•&lt;strong&gt; &lt;/strong&gt;Humanities/arts&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small; color: #999999;"&gt;•&lt;strong&gt; &lt;/strong&gt;Foreign languages  &lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small; color: #999999;"&gt;•&lt;strong&gt; &lt;/strong&gt;History/geography&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td align="center" style="border: 1px solid #000000; text-align: left;"&gt;
+&lt;p class="p1"&gt;&lt;span style="color: #ff6600;"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;em&gt;&lt;strong style="line-height: 1.231;"&gt;&lt;span style="font-size: small;"&gt;Teamwork/collaboration&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="color: #ff6600;"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;em&gt;&lt;strong&gt;&lt;span style="font-size: small;"&gt; Critical thinking/problem-solving&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="color: #ff6600;"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;em&gt;&lt;strong&gt;&lt;span style="font-size: small;"&gt;Communication&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="color: #999999;"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;strong&gt;&lt;span style="font-size: small;"&gt;Professionalism/work ethic&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="color: #ff6600;"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;em&gt;&lt;strong&gt;&lt;span style="font-size: small;"&gt;Information technology application&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small; color: #999999;"&gt;•&lt;strong&gt; &lt;/strong&gt;Leadership&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small; color: #ff6600;"&gt;•&lt;strong&gt; &lt;/strong&gt;&lt;em&gt;Creativity/innovation&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small; color: #999999;"&gt;•&lt;strong&gt; &lt;/strong&gt;Lifelong learning/&lt;span style="color: #ff6600;"&gt;&lt;em&gt;self-direction&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small; color: #999999;"&gt;•&lt;strong&gt; &lt;/strong&gt;Ethics/social responsibility&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt; &lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1457463020</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="661">
+        <pagenum>14</pagenum>
+        <subchapter>0</subchapter>
+        <title>Example #1 - answers</title>
+        <content>&lt;h1 class="Subhead"&gt;Example #1 – answers&lt;/h1&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt;While many answers may apply, in addition to teamwork, we identified the following basic and applied skills being developed in scenario #1:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Communication – interviewing, reporting back to the team, presenting to the class.&lt;/li&gt;
+&lt;li&gt;Creativity – in creating a unified presentation to the class.&lt;/li&gt;
+&lt;li&gt;Self-direction – each team member was accountable for independently interviewing a business person.&lt;/li&gt;
+&lt;li&gt;Spoken English language skills – if this had been a class of non-native speakers, then basic spoken English would have been directly addressed by these strategies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;table align="center" style="border: 1px solid #000000; background-color: #ffffff;" border="1" rules="all" cellspacing="0" cellpadding="5"&gt;
+&lt;thead&gt;
+&lt;tr style="background-color: #0f24bc;"&gt;
+&lt;td align="center" valign="middle" style="text-align: center;" scope="col"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt; Basic Skills&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td align="center" valign="middle" style="text-align: center;" scope="col"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span medium="" strong=""&gt;&lt;span style="color: #ffffff;"&gt; Applied Skills  &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="center" style="border: 1px solid #000000; text-align: left;"&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small; color: #ff6600;"&gt;•&lt;strong&gt; &lt;/strong&gt;&lt;em&gt;English language (spoken)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="color: #999999;"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;strong&gt;&lt;span style="font-size: small;"&gt;Reading comprehension (English)&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small; color: #999999;"&gt;•&lt;strong&gt; &lt;/strong&gt;Written English&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="color: #999999;"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;strong&gt;&lt;span style="font-size: small;"&gt;Mathematics&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small; color: #999999;"&gt;•&lt;strong&gt; &lt;/strong&gt;Science&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small; color: #999999;"&gt;•&lt;strong&gt; &lt;/strong&gt;Government/economics&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small; color: #999999;"&gt;•&lt;strong&gt; &lt;/strong&gt;Humanities/arts&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small; color: #999999;"&gt;•&lt;strong&gt; &lt;/strong&gt;Foreign languages  &lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small; color: #999999;"&gt;•&lt;strong&gt; &lt;/strong&gt;History/geography&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td align="center" style="border: 1px solid #000000; text-align: left;"&gt;
+&lt;p class="p1"&gt;&lt;span style="color: #ff6600;"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;em&gt;&lt;strong style="line-height: 1.231;"&gt;&lt;span style="font-size: small;"&gt;Teamwork/collaboration&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="color: #999999;"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;strong&gt;&lt;span style="font-size: small;"&gt; Critical thinking/problem-solving&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="color: #ff6600;"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;em&gt;&lt;strong&gt;&lt;span style="font-size: small;"&gt;Communication&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="color: #999999;"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;strong&gt;&lt;span style="font-size: small;"&gt;Professionalism/work ethic&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="color: #999999;"&gt;&lt;span style="font-size: small;"&gt;•&lt;/span&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;strong&gt;&lt;span style="font-size: small;"&gt;Information technology application&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small; color: #999999;"&gt;•&lt;strong&gt; &lt;/strong&gt;Leadership&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small; color: #ff6600;"&gt;•&lt;strong&gt; &lt;/strong&gt;&lt;em&gt;Creativity/innovation&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small;"&gt;&lt;span style="color: #999999;"&gt;•&lt;strong&gt; &lt;/strong&gt;Lifelong learning/&lt;/span&gt;&lt;span style="color: #ff6600;"&gt;&lt;em&gt;self-direction&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span style="font-size: small; color: #999999;"&gt;•&lt;strong&gt; &lt;/strong&gt;Ethics/social responsibility&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Let's look at another, more involved scenario.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1457462974</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

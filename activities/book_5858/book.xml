@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="81" moduleid="5858" modulename="book" contextid="19719">
+  <book id="81">
+    <name>Introduction and Prerequisites</name>
+    <intro>&lt;p&gt;intro and pre-requisites&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>1</customtitles>
+    <timecreated>1456952140</timecreated>
+    <timemodified>1456952140</timemodified>
+    <chapters>
+      <chapter id="636">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Welcome to this LINCS Course</title>
+        <content>&lt;h1&gt;Welcome to this LINCS Course&lt;/h1&gt;
+&lt;p&gt;Welcome to the &lt;i&gt;Workforce Preparation Strategies &lt;/i&gt;course, a part of the Learning to Achieve Program, a research-based training on serving adults with learning disabilities. This program is brought to you by the Literacy Information and Communication System (LINCS).&lt;/p&gt;
+&lt;p&gt;Click the &lt;b&gt;forward arrow &lt;/b&gt;to begin.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1456952451</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="637">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Join the LINCS Community and participate in course discussions</title>
+        <content>&lt;h1 class="Subhead"&gt;Join the LINCS Community and participate in course discussions&lt;/h1&gt;
+&lt;p class="Subhead"&gt;&lt;span style="line-height: 1.231;"&gt;This course is designed for teachers of adult learners with LD. As with all LINCS courses, this course includes opportunities to connect with other adult education practitioners interested in incorporating workforce preparation strategies into their instruction. If you haven’t already done so, take a moment to register as a member of the &lt;/span&gt;&lt;a href="https://community.lincs.ed.gov/" style="line-height: 1.231;" target="_blank"&gt;LINCS Community&lt;/a&gt;&lt;span style="line-height: 1.231;"&gt; and participate in the discussions embedded throughout this course. The discussions provide an open forum to share your thoughts, ideas, and questions with other adult education practitioners.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Throughout this course, you will have the opportunity to share your stories and insights as you learn ways to help prepare your students with LD for employment. This is a great opportunity to share and learn from others. We encourage you to participate!&lt;/p&gt;
+&lt;h1&gt; &lt;/h1&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/LINCS_COP_screenshotApril11_2016.jpg" width="500" alt="screen shot of the LINCS Community landing page" height="512" /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1468527657</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="638">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Overview and Objectives</title>
+        <content>&lt;h1&gt;Overview and Objectives&lt;/h1&gt;
+&lt;p&gt;This course focuses on some practical strategies adult basic educators can use to help their students with learning disabilities (LD) develop effective skills for finding and retaining employment.&lt;/p&gt;
+&lt;p&gt;By incorporating these strategies into your current instruction, you will convey to students with LD that what they are learning academically ties directly to their careers and livelihood. Research has shown that the more students can see their classes as personally relevant, the more receptive they will be to learning the material. Motivation plays a critical part in student success.&lt;/p&gt;
+&lt;p&gt;Though adult basic education (ABE) instructors are not expected to take on the role of career counselors, valuable career concepts and strategies can be readily incorporated into classroom lessons.&lt;/p&gt;
+&lt;p&gt; &lt;span&gt;___________&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium; color: #000000;"&gt;By the end of this course, you will be able to:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style="font-size: medium; color: #000000;"&gt;describe strategies for helping adults with LD develop skills to enhance their workforce readiness and success; and&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style="font-size: medium; color: #000000;"&gt;identify employment-related resources available to adults with LD in your community, and explore strategies to address possible barriers to access for those adults.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; ___________&lt;/p&gt;
+&lt;p&gt;Please allow approximately 2 hours to complete this course. However, you are free to leave the session at any time. When you exit the courseware, a bookmark is automatically placed at your last location to allow you to pick up where you left off when you return.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Navigation: The course is divided up into several sections: Introduction and Prerequisites, Guiding Question #1, Guiding Question #2, and Course &lt;span class="nolink"&gt;Conclusion&lt;/span&gt; and Resources. You may navigate through the course by using the forward arrows when available, by going back to the main course page, or via the Table of Contents on the right side of your screen.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1468527697</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="639">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Importance of incorporating workforce preparation strategies into instruction</title>
+        <content>&lt;h1 class="Subhead"&gt;Importance of incorporating workforce preparation strategies into instruction&lt;/h1&gt;
+&lt;p&gt;The mastery of basic academics is essential for success in nearly all careers. One might argue that the purpose of instructing basic academics is to ultimately assist learners with their career development and workforce preparation, hence their livelihood and independence.&lt;/p&gt;
+&lt;p&gt;In addition to academics, however, there are important ways in which adult educators can incorporate critical workforce preparation concepts and activities into their academic instruction and point students to important workforce-related resources available in the community.&lt;/p&gt;
+&lt;p&gt;Based on this, let’s look at our guiding questions for this course.&lt;/p&gt;
+&lt;h2&gt; &lt;/h2&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/87761103.jpg" width="580" height="386" alt="Female instructor talking to three young adult students" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1457043805</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="640">
+        <pagenum>6</pagenum>
+        <subchapter>0</subchapter>
+        <title>Activity: Job search, performance, and advancement challenges</title>
+        <content>&lt;h1 class="Subhead"&gt;Activity: Job search, performance, and advancement challenges&lt;/h1&gt;
+&lt;p&gt;Reflect for a moment on your own job seeking and employment experiences. Consider w&lt;span style="line-height: 1.231;"&gt;hat challenges you have faced in these three area:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;in gaining employment&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;&lt;/span&gt;while performing the job&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;in seeking job advancement&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Now, imagine what it might be like for adults with LD as they seek employment, or as they perform their jobs. What are some of the challenges these individuals might face in finding and keeping employment? For example, one challenge may be difficulty or inability to fill out a job application.&lt;/p&gt;
+&lt;p&gt;Take a few minutes to list two or more of the challenges you think individuals with LD might face in finding and keeping employment.&lt;/p&gt;
+&lt;p&gt;When you have finished making your list, click the &lt;b&gt;forward arrow&lt;/b&gt; to see some ideas.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1468527756</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="641">
+        <pagenum>5</pagenum>
+        <subchapter>0</subchapter>
+        <title>Guiding questions</title>
+        <content>&lt;h1&gt;Guiding questions&lt;/h1&gt;
+&lt;p&gt;There are two guiding questions for this course.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;___________&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span style="font-size: medium; color: #000000;"&gt;Guiding question #1:&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style="font-size: medium; color: #000000;"&gt;What instructional strategies can ABE instructors use to help students with LD develop skills that will support student success at each phase of the employment process?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span style="font-size: medium; color: #000000;"&gt;Guiding question #2:&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231; font-size: medium; color: #000000;"&gt;What workforce-related resources are available to students with LD, and how can the ABE instructor link these resources to instructional strategies and the learners’ goals?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;___________&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Before we move on to discuss our guiding questions, click the &lt;b&gt;forward arrow&lt;/b&gt; to first identify some of the challenges adults with LD might face in finding and keeping employment.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1457472426</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="642">
+        <pagenum>7</pagenum>
+        <subchapter>0</subchapter>
+        <title>Challenges to finding and keeping employment</title>
+        <content>&lt;h1 class="Subhead"&gt;Challenges to finding and keeping employment&lt;/h1&gt;
+&lt;p&gt;Learners with LD may face unique challenges, not only in acquiring basic academic skills, but also in finding and keeping employment.&lt;/p&gt;
+&lt;h2&gt;Finding Employment&lt;/h2&gt;
+&lt;p&gt;&lt;span style="font-size: 13px; font-weight: normal; line-height: 1.231;"&gt;Challenges adults with LD may face in &lt;/span&gt;&lt;i style="font-size: 13px; font-weight: normal; line-height: 1.231;"&gt;finding&lt;/i&gt;&lt;span style="font-size: 13px; font-weight: normal; line-height: 1.231;"&gt; employment include:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;finding job leads;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;completing job applications;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;participating in a job interview; and&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;demonstrating marketable skills.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Retaining Employment&lt;/h2&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt;Challenges adults with LD may face in &lt;/span&gt;&lt;i style="line-height: 1.231;"&gt;keeping&lt;/i&gt;&lt;span style="line-height: 1.231;"&gt; employment include:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;following directions;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;managing time;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;asking for assistance;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;communicating with others; and&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;maintaining social connections at work.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In your own reflections, you likely identified a number of the same challenges listed here. Take a moment to compare the challenge(s) you generated with this list. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1468527880</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="643">
+        <pagenum>8</pagenum>
+        <subchapter>0</subchapter>
+        <title>Discouraging employment prospects for adults with LD</title>
+        <content>&lt;h1 class="Subhead"&gt;Discouraging employment prospects for adults with LD&lt;/h1&gt;
+&lt;p&gt;For individuals with LD who may never have completed high school or an equivalent degree, or who have low literacy and math skills, employment outcomes can be very discouraging. Many of those who are working are significantly underemployed. They tend to work in occupations that are categorized as “nonskilled” and that typically pay low hourly wages. They are more likely than others to work part-time and not receive benefits.&lt;/p&gt;
+&lt;h2&gt; &lt;/h2&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/91764018cropped.jpg" width="500" height="369" alt="Photo of male employee washing dishes." /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1457044840</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="644">
+        <pagenum>9</pagenum>
+        <subchapter>0</subchapter>
+        <title>Role of ABE Instructors</title>
+        <content>&lt;h1 class="Subhead"&gt;Role of ABE instructors&lt;/h1&gt;
+&lt;p&gt;The overall unemployment and underemployment rates of individuals with LD are significantly higher than rates reported for the general population. Many adults with LD will experience a lifetime of lower earnings and will struggle financially.&lt;/p&gt;
+&lt;p&gt;This invites the question:&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium; color: #000000;"&gt;“What role can ABE instructors play in helping these adults achieve better employment outcomes?” &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;After completing this course, you will be aware of a variety of concrete strategies instructors can incorporate into their ABE courses to address some of the common employment-related challenges that adults with LD face.&lt;/p&gt;
+&lt;p&gt;To continue, click the &lt;strong&gt;up arrow &lt;/strong&gt;and expand the Guiding Question #1 header bar.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1457472443</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>
